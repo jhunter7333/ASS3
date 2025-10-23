@@ -1,0 +1,6 @@
+USAGE
+	./gate <-s> puzzle
+
+DESCRIPTION
+ Arguments within <> are optional
+    -s                 calls the AI solver
